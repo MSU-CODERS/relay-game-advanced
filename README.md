@@ -1,5 +1,5 @@
 
-> Open this page at [https://vspavan123.github.io/relaygameminimal-2/](https://vspavan123.github.io/relaygameminimal-2/)
+> Open this page at [https://vspavan123.github.io/relaygameminimal-2/](https://MSU-CODERS.github.io/relaygame-advanced/)
 
 ## Use as Extension
 
