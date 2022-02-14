@@ -1,5 +1,5 @@
 
-> Open this page at [https://vspavan123.github.io/relaygameminimal-2/](https://MSU-CODERS.github.io/relaygame-advanced/)
+> Open this page at [https://msu-coders.github.io/relaygame-advanced/](https://msu-coders.github.io/relaygame-advanced/)
 
 ## Use as Extension
 
@@ -8,22 +8,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/vspavan123/relaygameminimal-2** and import
+* search for **https://github.com/MSU-CODERS/relaygame-advanced** and import
 
-## Edit this project ![Build status badge](https://github.com/vspavan123/relaygameminimal-2/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/MSU-CODERS/relaygame-advanced/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/vspavan123/relaygameminimal-2** and click import
+* paste **https://github.com/MSU-CODERS/relaygame-advanced** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/vspavan123/relaygameminimal-2/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/MSU-CODERS/relaygame-advanced/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
